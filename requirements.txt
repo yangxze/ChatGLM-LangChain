@@ -1,0 +1,13 @@
+langchain==0.0.319
+sentence-transformers==2.2.2
+chromadb==0.4.14
+nltk==3.8.1
+gradio==3.48.0
+transformers==4.33.2
+
+protobuf
+cpm_kernels
+mdtex2html
+sentencepiece
+accelerate
+unstructured
