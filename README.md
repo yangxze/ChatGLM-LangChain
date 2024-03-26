@@ -7,6 +7,15 @@
 
 
 
+推荐两个国产LLM智能助手，大家如果其中代码有不懂的直接问LLM。
+
+> 1. [kimi](https://kimi.moonshot.cn/)
+> 2. [通义千问 ](https://tongyi.aliyun.com/qianwen/?spm=5176.28326591.0.0.40f713f4hDPj4r)
+
+
+
+
+
 # 二、本地环境准备
 
 ​	安装 [Anaconda](https://www.anaconda.com/download/)，具体操作参考文档 Python 深度学习：安装 Anaconda 与 PyTorch（GPU 版）库.pdf。文件来源于b站视频[Python深度学习：安装Anaconda、PyTorch（GPU版）库与PyCharm_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1cD4y1H7Tk/?spm_id_from=333.337.search-card.all.click&vd_source=a2b906f1078e767936dd0bbcf1275e2e)
